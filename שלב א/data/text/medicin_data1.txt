@@ -1,0 +1,25 @@
+35414,	SALSALATE, Aphena Pharma Solutions - Tennessee Inc
+44410,	Pregnyl,	Organon USA Inc
+39910,	Citalopram,	Amneal Pharmaceuticals of New York LLC
+51777,	Allergy Relief,	Freds Inc
+81222,	MEPROBAMATE,	Alembic Pharmaceuticals Limited
+66768,	Abstral,	Galena Biopharma Inc
+34337,	Acetaminophen And Codeine,	Liberty Pharmaceuticals Inc
+15791,	Furosemide,	McKesson Packaging Services a business unit of McKesson Corporation
+13316,	Levothyroxine Sodium,	REMEDYREPACK INC
+33482,	Glimepiride,	American Health Packaging
+39223,	Ritalin,	Novartis Pharmaceuticals Corporation
+37001,	Carbidopa, Levodopa and Entacapone Sandoz Inc
+17963,	DepressionComposition,	Synergy Formulas Inc
+14802,	mitoXANTRONE,	Teva Parenteral Medicines Inc
+43928,	Crolom,	Bausch & Lomb Incorporated
+49980,	Citalopram,	Physicians Total Care Inc
+96891,	Dopamine Hydrochloride,	General Injectables & Vaccines Inc
+25409,	LAMICTAL, Physicians Total Care Inc
+43825,	ADVATE,	Baxter Healthcare Corporation
+10563,	Paroxetine,	Teva Pharmaceuticals USA Inc
+91514,	TYLENOL Cold Multi-Symptom Daytime,	McNeil Consumer Healthcare Div McNeil-PPC Inc
+26644,	Phentermine Hydrochloride,	Lannett Company Inc
+85080,	Injury Topical,	Apotheca Company
+87043,	Rivastigmine Tartrate,	Carilion Materials Management
+18975,	Ranitidine,	Liberty Pharmaceuticals Inc
